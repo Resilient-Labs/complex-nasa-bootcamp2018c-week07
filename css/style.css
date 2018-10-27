@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin:0;
+}
+
+/***************************************
+
+*****************************************/
+h1{
+  font-size: 3em;
+}
+
+#first{
+  background-color: black;
+}
+
+th{
+  font-size: 2em;
+  color: white;
+  text-align: left;
+}
+
+tr:nth-child(odd){
+  background-color: rgb(237,240,245)
+}
+
+/***************************************
+MEDIA QUERIES
+*****************************************/
+
+/* tablet */
+@media (min-width: 768px) and (max-width: 1023px){
+
+}
+
+/* mobile */
+@media screen and (max-width: 767px){
+
+}
