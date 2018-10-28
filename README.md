@@ -10,7 +10,7 @@ https://fervent-raman-9eea58.netlify.com/
 How It's Made:
 Tech used: HTML, CSS, es6 JS
 
-I had to think critically about how I wanted to structure my first complex api request so for the sake of simplicity I did not make it OOP. I wanted to see if I could first make the Api seperate in their on functions but then opted to nest them in each other.
+I had to think critically about how I wanted to structure my first complex api request so for the sake of simplicity I did not make it OOP. I wanted to see if I could first get the apis to work together so I opted to nest them in each other.
 
 Optimizations (in the future): 
 -Make project OOP
