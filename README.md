@@ -1,22 +1,24 @@
-# 🚀 Week07 Bootcamp2018c Project: Simple API 1
+nasaWeather Project
 
-### Goal: Use NASA's API to return all of their facility locations (~400). Display the name of the facility, its location, and the weather at the facility currently. 
 
-### How to submit your code for review:
+The nasaWeather application utilizes the Nasa api and the openweathermap api to get the location of all 400+ of the nasa facilities and tell the user the weather in each location. 
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+https://fervent-raman-9eea58.netlify.com/
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+
+How It's Made:
+Tech used: HTML, CSS, es6 JS
+
+I had to think critically about how I wanted to structure my first complex api request so for the sake of simplicity I did not make it OOP. I wanted to see if I could first get the apis to work together so I opted to nest them in each other.
+
+Optimizations (in the future): 
+-Make project OOP
+-get rid of nested fecth request and create methods to call each one
+
+
+
+Lessons Learned:
+How to make a complex Api using fetch
+
+
